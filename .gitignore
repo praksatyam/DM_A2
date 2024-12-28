@@ -1,5 +1,7 @@
 data
-distance_matrix_2.csv
 dmenv
+spectral_embeddings.csv
+distance_matrix.csv
 index_labels.csv
 result.csv
+distance_matrix_2.csv
